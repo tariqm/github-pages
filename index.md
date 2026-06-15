@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Tariq's GitHub test page!
 ---
